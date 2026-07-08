@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Flask
+instance/
+.flaskenv
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Uploads / media (agar attendance images/videos store hoti hain)
+static/uploads/
+
+# Jupyter
+.ipynb_checkpoints/
